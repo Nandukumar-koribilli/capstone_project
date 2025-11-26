@@ -267,10 +267,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - [Google Gemini AI](https://ai.google.dev/) for AI-powered suggestions
@@ -284,6 +280,7 @@ For questions or feedback, please open an issue on the repository.
 ---
 
 
-**Made with ❤️ by AI Code Review Agent Team**
+**Made with ❤️ **
+
 
 
