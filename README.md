@@ -273,7 +273,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [Flask](https://flask.palletsprojects.com/) for the web framework
 - [Python AST](https://docs.python.org/3/library/ast.html) for code analysis
 
-## 📧 Contact
 
 
 
